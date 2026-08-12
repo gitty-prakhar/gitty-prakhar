@@ -1,512 +1,284 @@
-<div align="center">
+# 👋 Hi, I'm Prakhar Gupta
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:020617&text=PRAKHAR%20GUPTA&fontColor=38bdf8&fontSize=55&fontAlignY=38&desc=BACKEND%20ENGINEERING%20%7C%20COMPETITIVE%20PROGRAMMING%20%7C%20SYSTEMS&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+### Computer Science & Engineering @ IIIT Lucknow
 
-<br>
+<p align="center">
+  <a href="https://github.com/gitty-prakhar">
+    <img src="https://komarev.com/ghpvc/?username=gitty-prakhar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/gitty-prakhar?tab=followers">
+    <img src="https://img.shields.io/github/followers/gitty-prakhar?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=%3E+Initializing+Prakhar+Gupta...;%3E+Backend+Engineer+in+progress...;%3E+Building+systems+behind+the+API;%3E+600%2B+Competitive+Programming+Problems;%3E+Exploring+Rust+%7C+Solana+%7C+Distributed+Systems;%3E+sudo+make+something+awesome" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=gitty-prakhar&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/gitty-prakhar?label=FOLLOWERS&style=for-the-badge&color=0ea5e9"/>
-<img src="https://img.shields.io/github/stars/gitty-prakhar?label=STARS&style=for-the-badge&color=0284c7"/>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                         SYSTEM INITIALIZATION                       ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   USER       : prakhar@iiit-lucknow                                 ║
-║   ROLE       : Computer Science & Engineering Student               ║
-║   SPECIALITY : Backend Engineering                                  ║
-║   STATUS     : ONLINE                                               ║
-║                                                                      ║
-║   CURRENTLY BUILDING                                                ║
-║   ├── Online Judge                                                  ║
-║   ├── Distributed Backend Systems                                   ║
-║   ├── Redis + BullMQ Workers                                       ║
-║   ├── Docker-based Code Execution                                  ║
-║   └── Solana / Rust Experiments                                    ║
-║                                                                      ║
-║   SYSTEM STATUS : ████████████████████████████████  ONLINE          ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-# 👨‍💻 `whoami`
-
-```text
-┌──[prakhar@github]───────────────────────────────────────────────┐
-│                                                                  │
-│  🎓  B.Tech CSE @ IIIT Lucknow                                  │
-│                                                                  │
-│  💻  Backend Engineering                                        │
-│      APIs • Databases • Authentication • Distributed Systems    │
-│                                                                  │
-│  🧠  Competitive Programming                                    │
-│      600+ problems solved                                       │
-│                                                                  │
-│  🏗️  Building                                                    │
-│      An Online Judge with asynchronous code judging              │
-│                                                                  │
-│  🦀  Exploring                                                    │
-│      Rust • Solana • Systems Programming                         │
-│                                                                  │
-│  🐳  Interested in                                               │
-│      Docker • Redis • Message Queues • System Design              │
-│                                                                  │
-│  🔍  Philosophy                                                   │
-│      Understand what happens behind the API.                      │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <b>Backend Engineering</b> • <b>Competitive Programming</b> • <b>Systems</b>
+</p>
 
 ---
 
-# ⚡ `./current_state`
+## 🚀 About Me
 
-<div align="center">
-
-| System                     | Status      |
-| -------------------------- | ----------- |
-| 🟢 Backend Engineering     | `ACTIVE`    |
-| 🟢 Competitive Programming | `ACTIVE`    |
-| 🟢 Node.js / Express       | `ACTIVE`    |
-| 🟢 Databases               | `ACTIVE`    |
-| 🟢 Redis / BullMQ          | `ACTIVE`    |
-| 🟢 Docker                  | `ACTIVE`    |
-| 🟡 Rust                    | `LEARNING`  |
-| 🟡 Solana                  | `EXPLORING` |
-| 🟡 System Design           | `LEARNING`  |
-| 🟡 Distributed Systems     | `EXPLORING` |
-
-</div>
+* 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **IIIT Lucknow**
+* 💻 Interested in **Backend Engineering, APIs, Databases and System Design**
+* 🧠 Competitive Programmer with **600+ problems solved**
+* 🏆 **Codeforces Pupil — 1240 Rating**
+* ⭐ **CodeChef 2★ — 1492 Rating**
+* 🔨 Currently building an **Online Judge platform**
+* 🌐 Exploring **Web3, Solana and Rust**
+* 🐳 Learning more about **Docker, Redis, asynchronous systems and scalable backend architecture**
+* 📚 Always trying to understand how systems work under the hood
 
 ---
 
-# 🛠️ `tech --list`
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 
-<div align="center">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,rust,sql" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,java,js,rust,sql&theme=dark" />
+### ⚙️ Backend & Databases
 
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+</p>
 
-### ⚙️ Backend
+### 🔧 Tools & Technologies
 
-<div align="center">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,docker&theme=dark" />
+### 🌐 Web & Other
 
-</div>
-
-### 🔧 Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode&theme=dark" />
-
-</div>
-
-### 🌐 Web / Blockchain
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,solana&theme=dark" />
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,solana" />
+</p>
 
 ---
 
-# 🚀 `projects --running`
+## ⚡ Currently Learning / Exploring
 
-## ⚔️ Online Judge
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,solana,docker" />
+</p>
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                        ONLINE JUDGE                           │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  CLIENT                                                      │
-│     │                                                        │
-│     ▼                                                        │
-│  REST API                                                    │
-│     │                                                        │
-│     ├──────────────► MongoDB                                 │
-│     │                                                        │
-│     ▼                                                        │
-│  SUBMISSION QUEUE                                            │
-│     │                                                        │
-│     ▼                                                        │
-│  Redis / BullMQ                                              │
-│     │                                                        │
-│     ▼                                                        │
-│  JUDGE WORKER                                                │
-│     │                                                        │
-│     ▼                                                        │
-│  Docker Sandbox                                              │
-│     │                                                        │
-│     ▼                                                        │
-│  EXECUTION RESULT                                            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+I'm currently focusing on:
 
-**Stack:** `Node.js` `Express.js` `MongoDB` `Redis` `BullMQ` `Docker`
+* 🦀 **Rust**
+* ☀️ **Solana Development**
+* 🏗️ **System Design**
+* 🐳 **Docker & Containerization**
+* ⚡ **Redis & Asynchronous Processing**
+* 🔌 **Backend Architecture**
+* 🌐 **Distributed Systems**
 
-A competitive programming platform focused on asynchronous judging, isolated code execution and scalable backend architecture.
+---
 
-**Implemented / exploring:**
+## 🔥 Competitive Programming
+
+I enjoy solving algorithmic problems and regularly practice competitive programming.
+
+### 📊 Current Stats
+
+| Platform           | Achievement                           |
+| ------------------ | ------------------------------------- |
+| 🟣 Codeforces      | **Pupil — 1240 Rating**               |
+| 🟡 CodeChef        | **2★ — 1492 Rating**                  |
+| 🧩 Problems Solved | **600+**                              |
+| 🎯 Focus           | **DSA, Algorithms & Problem Solving** |
+
+I've solved problems across:
+
+**Codeforces • CodeChef • CSES • AtCoder • SPOJ**
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gitty-prakhar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitty-prakhar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gitty-prakhar&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+### 🚀 Online Judge Platform
+
+**Node.js • Express.js • MongoDB • Redis • BullMQ • Docker**
+
+A competitive programming platform designed around asynchronous code judging and scalable backend architecture.
+
+**Key areas:**
 
 * 🔐 Authentication & authorization
-* 📝 Problem management
-* 🧪 Test-case management
-* ⚡ Redis + BullMQ judging pipeline
-* 🐳 Docker-based isolated execution
+* 📝 Problem and test-case management
+* ⚡ Asynchronous judging with Redis & BullMQ
+* 🐳 Isolated code execution
 * 📊 Submission tracking
-* 🗄️ MongoDB persistence
+* 🗄️ MongoDB-based data management
 * 🔌 REST APIs
-* 👷 Background workers
 
 ---
 
-## 🚆 Train Ticket Booking System
+### 🚆 Train Ticket Booking System
 
-**Stack:** `Node.js` `Express.js` `MongoDB` `Redis`
+**Node.js • Express.js • MongoDB • Redis • REST APIs**
 
-A backend-focused train ticket booking application with authentication, booking workflows, rate limiting and asynchronous email processing.
+A full-stack train ticket booking application with backend-focused architecture.
 
-**Key components:**
+**Key areas:**
+
+* 🔐 User authentication
+* 🎫 Ticket booking
+* 🗄️ MongoDB database
+* ⚡ Redis-based rate limiting
+* 📬 Background email processing
+* 🔌 RESTful APIs
+* ☁️ Deployment and production configuration
+
+---
+
+### ☀️ Solana NFT Marketplace
+
+**Rust • Solana • Web3**
+
+Exploring a high-performance NFT marketplace protocol built natively on Solana.
+
+**Key areas:**
+
+* 🦀 Rust smart contracts
+* ☀️ Solana programs
+* 🖼️ NFT minting
+* 📦 On-chain asset management
+* 💱 Peer-to-peer marketplace functionality
+* ⚡ Low-cost, high-throughput blockchain architecture
+
+---
+
+## 🧠 What I Like Building
 
 ```text
+Backend Systems
+      ↓
+REST APIs
+      ↓
 Authentication
       ↓
-REST API
+Databases
       ↓
-MongoDB
+Caching & Redis
       ↓
-Redis
+Message Queues
       ↓
-Rate Limiting
+Docker / Deployment
       ↓
-Background Processing
-      ↓
-Email Notifications
+Scalable Systems
 ```
 
+I'm particularly interested in understanding what happens **behind the API** — from database queries and caching to authentication, queues, concurrency and system architecture.
+
 ---
 
-## ☀️ Solana NFT Marketplace
+## 🏆 Achievements
 
-**Stack:** `Rust` `Solana` `Web3`
+* 🎓 **B.Tech CSE — IIIT Lucknow**
+* 🧠 **600+ Competitive Programming Problems**
+* 🟣 **Codeforces Pupil — 1240**
+* 🟡 **CodeChef 2★ — 1492**
+* 📚 Strong interest in Data Structures & Algorithms
+* 🚀 Shortlisted for **Hackofiesta Hackathon**
+* 🏅 Reached the **Finals of Freshers' Cup CP Tournament**
 
-Exploring a high-performance NFT marketplace protocol on Solana.
+---
+
+## 📚 Areas of Interest
 
 ```text
-Wallet
-   │
-   ▼
-Solana Program
-   │
-   ├── NFT Minting
-   ├── Asset Management
-   ├── Marketplace Logic
-   └── Peer-to-Peer Trading
-```
+Backend Engineering
+      │
+      ├── Node.js / Express
+      ├── REST APIs
+      ├── Authentication
+      ├── Databases
+      ├── Redis
+      └── Message Queues
 
-Currently exploring the ecosystem rather than claiming production-level expertise.
-
----
-
-# 🧠 `backend --architecture`
-
-```text
-                         ┌───────────────┐
-                         │    CLIENT     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │   REST API    │
-                         └───────┬───────┘
-                                 │
-                 ┌───────────────┼───────────────┐
-                 │               │               │
-                 ▼               ▼               ▼
-          ┌────────────┐  ┌────────────┐  ┌────────────┐
-          │   AUTH     │  │  BUSINESS  │  │ VALIDATION │
-          │ JWT / RBAC │  │   LOGIC    │  │            │
-          └────────────┘  └─────┬──────┘  └────────────┘
-                                │
-                  ┌─────────────┼─────────────┐
-                  │             │             │
-                  ▼             ▼             ▼
-             ┌────────┐    ┌────────┐   ┌──────────┐
-             │MongoDB │    │ Redis  │   │ BullMQ   │
-             └────────┘    └────────┘   └────┬─────┘
-                                             │
-                                             ▼
-                                      ┌──────────────┐
-                                      │   WORKERS    │
-                                      └──────┬───────┘
-                                             │
-                                             ▼
-                                      ┌──────────────┐
-                                      │    DOCKER    │
-                                      │   SANDBOX    │
-                                      └──────────────┘
-```
-
----
-
-# 🔥 `competitive_programming --stats`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Codeforces-Pupil-1f8acb?style=for-the-badge&logo=codeforces"/>
-<img src="https://img.shields.io/badge/Rating-1240-0ea5e9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CodeChef-2★-8b5cf6?style=for-the-badge&logo=codechef"/>
-<img src="https://img.shields.io/badge/Rating-1492-a855f7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Problems-600%2B-22c55e?style=for-the-badge"/>
-
-</div>
-
-```text
-                     COMPETITIVE PROGRAMMING
-
-   Codeforces ──────────────── Pupil ─── 1240
-   CodeChef   ──────────────── 2★    ─── 1492
-
-   Problems Solved ─────────── 600+
-
-   Platforms:
-   ├── Codeforces
-   ├── CodeChef
-   ├── CSES
-   ├── AtCoder
-   └── SPOJ
-
-   Focus:
-   ├── Data Structures
-   ├── Algorithms
-   ├── Dynamic Programming
-   ├── Greedy
-   ├── Binary Search
-   ├── Number Theory
-   └── Problem Solving
-```
-
----
-
-# 📊 `github --stats`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gitty-prakhar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitty-prakhar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=gitty-prakhar&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 `activity --graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gitty-prakhar&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-# 🐍 `contributions --visualize`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🌌 `interests --tree`
-
-```text
 Computer Science
-│
-├── Backend Engineering
-│   ├── Node.js
-│   ├── Express
-│   ├── REST APIs
-│   ├── Authentication
-│   └── Backend Architecture
-│
-├── Databases
-│   ├── MongoDB
-│   ├── SQL
-│   ├── Redis
-│   └── Caching
-│
-├── Systems
-│   ├── Operating Systems
-│   ├── Computer Networks
-│   ├── Concurrency
-│   ├── Message Queues
-│   └── Distributed Systems
-│
-├── Competitive Programming
-│   ├── Algorithms
-│   ├── Data Structures
-│   └── Problem Solving
-│
-└── Emerging Tech
-    ├── Rust
-    ├── Solana
-    └── Web3
+      │
+      ├── Data Structures
+      ├── Algorithms
+      ├── Operating Systems
+      ├── DBMS
+      ├── Computer Networks
+      └── System Design
+
+Emerging Technologies
+      │
+      ├── Rust
+      ├── Solana
+      └── Web3
 ```
 
 ---
 
-# 🧪 `learning --now`
+## 💬 Let's Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/gitty-prakhar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_CODEFORCES_URL">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="YOUR_CODECHEF_URL">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
 
-```text
-Rust                 ███████████████░░░░░  75%
-Solana               ████████████░░░░░░░░  60%
-Docker               ████████████████░░░░  80%
-Redis                █████████████████░░░  85%
-System Design        ███████████░░░░░░░░░  55%
-Distributed Systems  █████████░░░░░░░░░░░  45%
-```
-
-</div>
-
----
-
-# 🏆 `achievements`
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                      ACHIEVEMENTS                        ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  🎓  B.Tech CSE @ IIIT Lucknow                           ║
-║                                                          ║
-║  🧠  600+ Competitive Programming Problems              ║
-║                                                          ║
-║  🟣  Codeforces Pupil — 1240                            ║
-║                                                          ║
-║  🟡  CodeChef 2★ — 1492                                 ║
-║                                                          ║
-║  🚀  Online Judge Backend Project                        ║
-║                                                          ║
-║  🏗️  Backend / Systems Development                      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
+<p align="center">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-# 🛰️ `system --logs`
+## 🐍 Contribution Graph
 
-```text
-[INFO] Booting developer profile...
-[OK]   Loading C++ module
-[OK]   Loading Java module
-[OK]   Loading JavaScript module
-[OK]   Starting Node.js environment
-[OK]   Connecting MongoDB
-[OK]   Initializing Redis
-[OK]   Loading BullMQ
-[OK]   Initializing Docker runtime
-[OK]   Loading competitive programming engine
-[OK]   Mounting Rust environment
-[OK]   Connecting Solana experiments
-
-[INFO] Backend systems initialized.
-
-[READY] Prakhar Gupta is online.
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
 
-# 📡 `connect --with-me`
+## 💭 Quote
 
-<div align="center">
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
 
-<a href="https://github.com/gitty-prakhar">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_CODEFORCES_URL">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="YOUR_CODECHEF_URL">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <b>— John Johnson</b>
+</p>
 
 ---
 
-# 💭 `quote`
+<p align="center">
+  ⭐ If you find something interesting in my repositories, feel free to star it!
+</p>
 
-<div align="center">
-
-### *"First, solve the problem. Then, write the code."*
-
-**— John Johnson**
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║              CONNECTION ESTABLISHED SUCCESSFULLY                ║
-║                                                                  ║
-║                    Thanks for visiting! 🚀                       ║
-║                                                                  ║
-║                 Keep building. Keep learning.                   ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:111827,100:0f172a"/>
-
-</div>
+<p align="center">
+  <b>Thanks for visiting! 🚀</b>
+</p>

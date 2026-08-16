@@ -85,8 +85,8 @@ I enjoy solving algorithmic problems and regularly practice competitive programm
 
 | Platform           | Achievement                           |
 | ------------------ | ------------------------------------- |
-| 🟣 Codeforces      | **Pupil — 1240 Rating**               |
-| 🟡 CodeChef        | **2★ — 1492 Rating**                  |
+| 🟣 Codeforces      | **Pupil — 1247 Rating**               |
+| 🟡 CodeChef        | **2★ — 1585 Rating**                  |
 | 🧩 Problems Solved | **600+**                              |
 | 🎯 Focus           | **DSA, Algorithms & Problem Solving** |
 
@@ -190,13 +190,9 @@ I'm particularly interested in understanding what happens **behind the API** —
 
 ## 🏆 Achievements
 
-* 🎓 **B.Tech CSE — IIIT Lucknow**
 * 🧠 **600+ Competitive Programming Problems**
-* 🟣 **Codeforces Pupil — 1240**
-* 🟡 **CodeChef 2★ — 1492**
-* 📚 Strong interest in Data Structures & Algorithms
-* 🚀 Shortlisted for **Hackofiesta Hackathon**
-* 🏅 Reached the **Finals of Freshers' Cup CP Tournament**
+* 🟣 **Codeforces Pupil — 1247**
+* 🟡 **CodeChef 2★ — 1585**
 
 ---
 

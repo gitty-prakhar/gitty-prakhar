@@ -22,8 +22,8 @@
 * 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **IIIT Lucknow**
 * 💻 Interested in **Backend Engineering, APIs, Databases and System Design**
 * 🧠 Competitive Programmer with **600+ problems solved**
-* 🏆 **Codeforces Pupil — 1240 Rating**
-* ⭐ **CodeChef 2★ — 1492 Rating**
+* 🏆 **Codeforces Pupil — max rating 1247**
+* ⭐ **CodeChef 2★ — 1585 Rating**
 * 🔨 Currently building an **Online Judge platform**
 * 🌐 Exploring **Web3, Solana and Rust**
 * 🐳 Learning more about **Docker, Redis, asynchronous systems and scalable backend architecture**
